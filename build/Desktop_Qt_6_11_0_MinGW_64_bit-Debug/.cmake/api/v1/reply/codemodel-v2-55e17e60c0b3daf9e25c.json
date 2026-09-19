@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6f1bf611a1a15c188191.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FileSystemSimulator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FileSystemSimulator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileSystemSimulator-Debug-f2238d6aa773c123ca78.json",
+					"name" : "FileSystemSimulator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FileSystemSimulator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileSystemSimulator_autogen-Debug-6aba1d18fb57b9da565b.json",
+					"name" : "FileSystemSimulator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FileSystemSimulator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileSystemSimulator_autogen_timestamp_deps-Debug-b5d6bdbe321242eca5f2.json",
+					"name" : "FileSystemSimulator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/FileSystemSimulator/FileSystemSimulator/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+		"source" : "D:/FileSystemSimulator/FileSystemSimulator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
