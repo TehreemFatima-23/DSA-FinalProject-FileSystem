@@ -78,6 +78,6 @@
 <h2>Tech Stack</h2>
 <ul>
   <li><b>Language:</b> C++</li>
-  <li><b>GUI Framework:</b> Qt Framework[cite: 1]</li>
+  <li><b>GUI Framework:</b> Qt Framework</li>
   <li><b>Core Data Structures:</b> Trees, Stacks, Queues, Graphs/Traversals (DFS)</li>
 </ul>
