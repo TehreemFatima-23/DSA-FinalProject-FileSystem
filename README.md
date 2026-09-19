@@ -27,11 +27,11 @@
 <ul>
   <li>
     <b>Hierarchical Directory Management (N-ary Tree):</b>
-    Directory organization is structured as a tree[cite: 1]. Creating, moving, copying, or renaming folders updates pointer links and subtrees without losing file metadata.
+    Directory organization is structured as a tree. Creating, moving, copying, or renaming folders updates pointer links and subtrees without losing file metadata.
   </li>
   <li>
     <b>Recycle Bin & Undo System (Stack - LIFO):</b>
-    Deleting files or folders moves them to a Recycle Bin implemented with a Stack[cite: 1]. Performing an <i>Undo Delete</i> pops the latest item from the stack and restores it to its original location.
+    Deleting files or folders moves them to a Recycle Bin implemented with a Stack. Performing an <i>Undo Delete</i> pops the latest item from the stack and restores it to its original location.
   </li>
   <li>
     <b>Activity Logging (Queue - FIFO):</b>
